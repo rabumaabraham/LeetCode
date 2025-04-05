@@ -21,12 +21,13 @@ This repository contains my solutions to various LeetCode problems, implemented 
 
 ## 🧠 Tech Stack
 
-| 💻 Frontend        | ⚙️ Backend        | 🧰 Tools           | 🛎️ Languages         |
+| 💻 Frontend       | ⚙️ Backend      | 🧰 Tools           |  🛎️ Languages       |
 |-------------------|------------------|--------------------|----------------------|
-| React             | Node.js          | Git · GitHub       | JavaScript · Python  |
-| Next.js           | MongoDB · MySQL  | VS Code · Postman  | TypeScript · C++     |
-| HTML · CSS        | Python           | Chrome DevTools    |                      |
-| Tailwind · Figma  |                  |                    |                      |
+| React             | Node.js          | Git                | JavaScript           |
+| Vue JS            | MongoDB          | VS Code            | TypeScript           |
+| HTML              | Python           | Chrome DevTools    | Python               |
+| CSS               | MySQL            | GitHub             | C++                  |
+| Angualr           | Postgre          | Postman            |                      |
 
 
 ## 🛠️ Tech Stack
