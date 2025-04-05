@@ -6,17 +6,17 @@ This repository contains my solutions to various LeetCode problems, implemented 
 # 👋 Hello World, I'm Rabuma!
 
 
-<div align="center">
+<div align="left">
 <h1>
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Rabuma!;" />
 </h1>
 </div>
 
-🚀 Full Stack Developer | AI Enthusiast | UI/UX Designer
+🚀 Full Stack Developer | AI Enthusiast
 
 ## 🔥 What I'm Working On:
 - 🤖 AI-powered platforms @ [Seeno AI](https://www.seenoai.com)
-- 🛠️ Scalable full-stack apps with modern tech
+- 🛠️ Scalable full-stack apps
 - 🎨 Clean, responsive UIs
 - ☁️ DevOps + Cloud workflows
 - 🌍 Open source & global collabs
