@@ -33,10 +33,10 @@ This repository contains my solutions to various LeetCode problems, implemented 
 ## 🛠️ Tech Stack
 
 **💻 Frontend**
-> React · Next.js · Tailwind · HTML · CSS
+> React · Next.js · Vue.js · Angular · SCSS · Tailwind · HTML · CSS
 
 **⚙️ Backend**
-> Node.js · Python · MongoDB · MySQL · PostgreSQL
+> Node.js · Express.js ·Django · MongoDB · MySQL · PostgreSQL · SQLite
 
 **🎯 Languages**
 > JavaScript · TypeScript · Python · C++
