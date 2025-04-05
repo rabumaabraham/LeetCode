@@ -33,13 +33,13 @@ This repository contains my solutions to various LeetCode problems, implemented 
 ## 🛠️ Tech Stack
 
 **💻 Frontend**
-> React · Next.js · HTML · CSS · Tailwind · Figma
+> React · HTML · CSS · Tailwind · Next.js
 
 **⚙️ Backend**
-> Node.js · Python · C++ · MongoDB · MySQL
+> Node.js · Python · MongoDB · MySQL · PostgreSQL
 
 **🧰 Tools**
-> Git · GitHub · VS Code · Postman · Chrome DevTools
+> Git · GitHub · VS Code · Postman · DevTools
 
 **🎯 Languages**
 > JavaScript · TypeScript · Python · C++
