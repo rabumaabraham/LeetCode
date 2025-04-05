@@ -5,6 +5,13 @@ This repository contains my solutions to various LeetCode problems, implemented 
 
 # 👋 Hello World, I'm Rabuma!
 
+
+<div align="center">
+<h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Rabuma!;" />
+</h1>
+</div>
+
 🚀 Full Stack Developer | AI Enthusiast | UI/UX Designer
 
 ## 🔥 What I'm Working On:
@@ -13,21 +20,6 @@ This repository contains my solutions to various LeetCode problems, implemented 
 - 🎨 Clean, responsive UIs
 - ☁️ DevOps + Cloud workflows
 - 🌍 Open source & global collabs
-
-## ⚙️ Tech Stack:
-**Frontend:** React, Next.js, HTML, CSS, Tailwind, Figma  
-**Backend:** Node.js, Python, C++, MongoDB, MySQL  
-**Tools:** Git, GitHub, VS Code
-
-## 🧠 Tech Stack
-
-| 💻 Frontend       | ⚙️ Backend      | 🧰 Tools           |  🛎️ Languages       |
-|-------------------|------------------|--------------------|----------------------|
-| React             | Node.js          | Git                | JavaScript           |
-| Vue JS            | MongoDB          | VS Code            | TypeScript           |
-| HTML              | Python           | Chrome DevTools    | Python               |
-| CSS               | MySQL            | GitHub             | C++                  |
-| Angualr           | Postgre          | Postman            |                      |
 
 
 ## 🛠️ Tech Stack
