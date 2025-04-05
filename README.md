@@ -19,6 +19,31 @@ This repository contains my solutions to various LeetCode problems, implemented 
 **Backend:** Node.js, Python, C++, MongoDB, MySQL  
 **Tools:** Git, GitHub, VS Code
 
+## 🧠 Tech Stack
+
+| 💻 Frontend        | ⚙️ Backend        | 🧰 Tools           | 🛎️ Languages         |
+|-------------------|------------------|--------------------|----------------------|
+| React             | Node.js          | Git · GitHub       | JavaScript · Python  |
+| Next.js           | MongoDB · MySQL  | VS Code · Postman  | TypeScript · C++     |
+| HTML · CSS        | Python           | Chrome DevTools    |                      |
+| Tailwind · Figma  |                  |                    |                      |
+
+
+## 🛠️ Tech Stack
+
+**💻 Frontend**
+> React · Next.js · HTML · CSS · Tailwind · Figma
+
+**⚙️ Backend**
+> Node.js · Python · C++ · MongoDB · MySQL
+
+**🧰 Tools**
+> Git · GitHub · VS Code · Postman · Chrome DevTools
+
+**🎯 Languages**
+> JavaScript · TypeScript · Python · C++
+
+
 ## 📫 Contact:
 [📧 Gmail](mailto:iamrabuma@gmail.com) | [💼 LinkedIn](https://linkedin.com/in/rabuma) | [🌐 Portfolio](https://rabumaabraham.github.io)
 
